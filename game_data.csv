@@ -1,0 +1,231 @@
+city,country,population
+Jakarta,Indonesia,35362000
+Manila,Philippines,23971000
+Seoul,South Korea,22394000
+Mexico City,Mexico,21505000
+Cairo,Egypt,19787000
+Beijing,China,19437000
+Moscow,Russia,17693000
+Bangkok,Thailand,17573000
+Dhaka,Bangladesh,16839000
+Buenos Aires,Argentina,16216000
+Kinshasa,Congo (Kinshasa),15056000
+Tehran,Iran,13819000
+London,United Kingdom,11120000
+Paris,France,11027000
+Lima,Peru,8992000
+Luanda,Angola,8883000
+Kuala Lumpur,Malaysia,8639000
+Hanoi,Vietnam,8246600
+Bogota,Colombia,7743955
+Dar es Salaam,Tanzania,7461000
+Hong Kong,Hong Kong,7398000
+Santiago,Chile,7026000
+Riyadh,Saudi Arabia,6889000
+Baghdad,Iraq,6107000
+Khartoum,Sudan,6017000
+Madrid,Spain,6006000
+Nairobi,Kenya,5545000
+Rangoon,Myanmar,5430000
+Washington,United States,5379184
+Singapore,Singapore,5271000
+Abidjan,Côte d'Ivoire,4980000
+Kabul,Afghanistan,4273156
+Amman,Jordan,4007526
+Berlin,Germany,3664088
+Algiers,Algeria,3415811
+Addis Ababa,Ethiopia,3041002
+Brasilia,Brazil,3015268
+Kuwait City,Kuwait,2989000
+Kyiv,Ukraine,2963199
+Sanaa,Yemen,2957000
+Guatemala City,Guatemala,2934841
+Rome,Italy,2872800
+La Paz,Bolivia,2867504
+Pyongyang,North Korea,2863000
+Antananarivo,Madagascar,2610000
+Santo Domingo,Dominican Republic,2581827
+Tashkent,Uzbekistan,2497900
+Ouagadougou,Burkina Faso,2453496
+Yaounde,Cameroon,2440462
+Accra,Ghana,2291352
+Baku,Azerbaijan,2181800
+Harare,Zimbabwe,2150000
+Havana,Cuba,2141652
+Phnom Penh,Cambodia,2129371
+Mogadishu,Somalia,2120000
+Bamako,Mali,2009109
+Quito,Ecuador,2011388
+Minsk,Belarus,2009786
+Caracas,Venezuela,1943901
+Vienna,Austria,1911191
+Bucharest,Romania,1883425
+Brazzaville,Congo (Brazzaville),1827000
+Warsaw,Poland,1790658
+Damascus,Syria,1754000
+Brussels,Belgium,1743000
+Lusaka,Zambia,1742979
+Budapest,Hungary,1723836
+Conakry,Guinea,1667864
+Kampala,Uganda,1659600
+Abu Dhabi,United Arab Emirates,1483000
+Muscat,Oman,1421409
+Ulaanbaatar,Mongolia,1396288
+Belgrade,Serbia,1378682
+Prague,Czechia,1335084
+Montevideo,Uruguay,1319108
+Sofia,Bulgaria,1277411
+Abuja,Nigeria,1235880
+Maputo,Mozambique,1191613
+Doha,Qatar,1186023
+Dakar,Senegal,1146053
+Nay Pyi Taw,Myanmar,1160242
+Kigali,Rwanda,1156663
+Tripoli,Libya,1126000
+Tegucigalpa,Honduras,1126534
+Tbilisi,Georgia,1118035
+N'Djamena,Chad,1092066
+Copenhagen,Denmark,1085000
+Yerevan,Armenia,1075800
+Nur-Sultan,Kazakhstan,1078362
+Nouakchott,Mauritania,1077169
+Bishkek,Kyrgyzstan,1053900
+Tunis,Tunisia,1056247
+Kathmandu,Nepal,975453
+Niamey,Niger,1026848
+Managua,Nicaragua,1028808
+Monrovia,Liberia,1021762
+Port-au-Prince,Haiti,987310
+Islamabad,Pakistan,1014825
+Ottawa,Canada,989567
+Stockholm,Sweden,975819
+Asmara,Eritrea,963000
+Freetown,Sierra Leone,951000
+Vientiane,Laos,948487
+Jerusalem,Israel,919438
+Bangui,Central African Republic,889231
+Panama City,Panama,880691
+Amsterdam,Netherlands,862965
+Lome,Togo,837437
+Libreville,Gabon,797003
+Zagreb,Croatia,790017
+Dushanbe,Tajikistan,778500
+Lilongwe,Malawi,781538
+Cotonou,Benin,762000
+Colombo,Sri Lanka,752993
+Pretoria,South Africa,741651
+Oslo,Norway,693494
+Athens,Greece,664046
+Bujumbura,Burundi,658859
+Helsinki,Finland,642045
+Skopje,Macedonia,640000
+Chisinau,Moldova,639000
+Riga,Latvia,614618
+Kingston,Jamaica,580000
+Rabat,Morocco,572717
+Vilnius,Lithuania,574147
+San Salvador,El Salvador,567698
+Djibouti,Djibouti,562000
+Dublin,Ireland,553165
+The Hague,Netherlands,537833
+Asuncion,Paraguay,524190
+Lisbon,Portugal,506654
+Bratislava,Slovakia,475503
+Tallinn,Estonia,438341
+Beirut,Lebanon,361366
+Cape Town,South Africa,433688
+Tirana,Albania,418495
+Wellington,New Zealand,418500
+Dodoma,Tanzania,410956
+Bissau,Guinea-Bissau,395954
+Canberra,Australia,381488
+Juba,South Sudan,372410
+Yamoussoukro,Côte d'Ivoire,355573
+Maseru,Lesotho,330790
+Nicosia,Cyprus,330000
+Windhoek,Namibia,322500
+Port Moresby,Papua New Guinea,317374
+Porto-Novo,Benin,300000
+Sucre,Bolivia,300000
+San Jose,Costa Rica,288054
+Ljubljana,Slovenia,286745
+Sarajevo,Bosnia And Herzegovina,275524
+Nassau,The Bahamas,274400
+Bloemfontein,South Africa,256185
+Fort-de-France,Martinique,253995
+New Delhi,India,249998
+Gaborone,Botswana,231626
+Paramaribo,Suriname,223757
+Dili,Timor-Leste,222323
+Male,Maldives,133019
+Georgetown,Guyana,200500
+Gibraltar,Gibraltar,187083
+Saint-Denis,Reunion,190047
+Malabo,Equatorial Guinea,187302
+Podgorica,Montenegro,174515
+Manama,Bahrain,157474
+Port Louis,Mauritius,149194
+Willemstad,Curaçao,150000
+Bern,Switzerland,133798
+Papeete,French Polynesia,131695
+Luxembourg,Luxembourg,128512
+Reykjavik,Iceland,128793
+Praia,Cabo Verde,127832
+Sri Jayewardenepura Kotte,Sri Lanka,115826
+Bridgetown,Barbados,110000
+Moroni,Comoros,111329
+Thimphu,Bhutan,104000
+Mbabane,Swaziland,94874
+Noumea,New Caledonia,93060
+Honiara,Solomon Islands,84520
+Suva,Fiji,88271
+Ankara,Turkey,77168
+Castries,Saint Lucia,70000
+Cayenne,French Guiana,61550
+Sao Tome,Sao Tome And Principe,56166
+Port-Vila,Vanuatu,51437
+Hamilton,Bermuda,52320
+Bandar Seri Begawan,Brunei,50000
+Monaco,Monaco,36371
+Gitega,Burundi,41944
+Port of Spain,Trinidad And Tobago,37074
+Apia,Samoa,37708
+Tarawa,Kiribati,28802
+Oranjestad,Aruba,34980
+Saint Helier,Jersey,33522
+Banjul,The Gambia,31356
+Mamoudzou,Mayotte,32057
+Majuro,Marshall Islands,30000
+Douglas,Isle Of Man,27938
+George Town,Cayman Islands,27704
+Victoria,Seychelles,26450
+Kingstown,Saint Vincent And The Grenadines,25000
+Andorra la Vella,Andorra,22615
+Saint John's,Antigua And Barbuda,21926
+Nuku`alofa,Tonga,23221
+Ashgabat,Turkmenistan,19426
+Nuuk,Greenland,18326
+Belmopan,Belize,17222
+Roseau,Dominica,16582
+Basseterre,Saint Kitts And Nevis,13220
+Torshavn,Faroe Islands,13326
+Pago Pago,American Samoa,12576
+Valletta,Malta,6444
+Grand Turk,Turks And Caicos Islands,5801
+Palikir,Federated States of Micronesia,6227
+Funafuti,Tuvalu,6025
+Vaduz,Liechtenstein,5668
+Lobamba,Swaziland,5800
+Avarua,Cook Islands,5445
+Saint George's,Grenada,4315
+San Marino,San Marino,4040
+Capitol Hill,Northern Mariana Islands,2500
+Stanley,Falkland Islands (Islas Malvinas),2213
+Vatican City,Vatican City,825
+Alofi,Niue,1611
+Basse-Terre,Guadeloupe,307
+Hagta,Guam,1051
+Jamestown,"Saint Helena, Ascension, And Tristan Da Cunha",714
+Brades,Montserrat,391
+Ngerulmud,Palau,271
+San Juan,Puerto Rico,323279
